@@ -1,0 +1,17 @@
+.bit {
+  display: inline-block;
+  height: 3rem;
+  width: 3rem;
+  border: solid 1px #646262;
+  margin-right: 10px;
+  border-radius: 50%;
+}
+
+.on {
+  background-color: #0F0;
+  box-shadow: 0 0 15px #0f0;
+}
+.off {
+  background-color: #F00;
+  box-shadow: 0 0 15px #F00;
+}

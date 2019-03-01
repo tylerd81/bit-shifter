@@ -1,0 +1,13 @@
+.numeric-display {
+  border: solid 1px #F00;
+  font-size: 2rem;
+  padding: .5rem;
+  margin: .5rem 0;
+  color: #F00;
+  border-radius: 10px;
+  background-color: #3d0101;
+}
+.numeric-display h2 {
+  padding: 0;
+  margin: 0;
+}
